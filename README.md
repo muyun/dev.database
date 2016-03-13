@@ -10,5 +10,6 @@
 #### reference
 * [ENGG1410-E Linear Algebra and Vector Calculus] (http://www.cse.cuhk.edu.hk/~taoyf/course/1410/1410.html)
 * [Build a distributed SQL database from the ground up](https://github.com/ngaut/builddatabase)
+* [CS186-Introduction to Database Systems] (http://www-inst.eecs.berkeley.edu/~cs186/archives.html)
 
 
