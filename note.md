@@ -5,3 +5,8 @@
    - define the format by which data should be stored
    - the operations for querying the data
 
+
+
+#### reference
+* [BMEG3120 Database and Security for Biomedical Engineering](http://www.cse.cuhk.edu.hk/~taoyf/course/bmeg3120/fall13/bmeg3120.html)
+* [How does a relational database work](http://coding-geek.com/how-databases-work/)
