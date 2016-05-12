@@ -1,4 +1,7 @@
-### dev.database
+#### data science
+* [Foundations of Data Science](https://data-8.appspot.com/sp16/course)
+
+#### database
 
 * [Intro to Database Systems] (http://www.cs186berkeley.net/home/schedule-and-notes)
 * [Database Systems] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/)
