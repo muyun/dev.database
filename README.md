@@ -1,4 +1,5 @@
 #### data science
+* [Data-driven Web Applications](http://mimno.infosci.cornell.edu/info3300/)
 * [Foundations of Data Science](https://data-8.appspot.com/sp16/course)
 
 #### database, Mainly on the database systems
