@@ -2,6 +2,8 @@
 * [Data-driven Web Applications](http://mimno.infosci.cornell.edu/info3300/)
 * [Foundations of Data Science](https://data-8.appspot.com/sp16/course)
 
+#### data virtualization
+
 #### database, Mainly on the database systems
 * [Intro to Database Systems] (http://www.cs186berkeley.net/home/schedule-and-notes)
 * [Database Systems] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/lecture-notes/)
