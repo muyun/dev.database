@@ -4,6 +4,7 @@
 
 #### data virtualization
 * [data Visualization](http://web.stanford.edu/class/cs448b/cgi-bin/wiki/index.php?title=Main_Page)
+* [visualization](http://www.cs171.org/2015/resources/)
 * [Christian Peccei](http://www.christianpeccei.com/)
 
 #### database, Mainly on the database systems
